@@ -1,0 +1,14 @@
+#szamok div{
+    background-color: blue;
+    border-radius: 50%;
+    aspect-ratio: 1;
+    width: 20px;
+    
+    
+    
+}
+#szamok{
+    display: flex;
+    flex-wrap: wrap;
+
+}
